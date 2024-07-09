@@ -1,6 +1,6 @@
 # About project
 
-Load two instance/viewer and synchronous scrolling/zooming of the right side viewer 
+Load two instances/viewers and synchronous scrolling/zooming of the right-side viewer based on the left-side viewer
 
     clone the repository
     cd to the repository
