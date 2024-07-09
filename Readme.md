@@ -1,6 +1,6 @@
 # About project
 
-Load two instances/viewers and synchronous scrolling/zooming of the right-side viewer based on the left-side viewer
+Renders a document in two @Document Viewer instances, side by side. Scrolling the document in the left viewer influences scrolling in the right viewer
 
     clone the repository
     cd to the repository
